@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#gratitude-input {
+    margin-bottom: 20px;
+}
+
+#gratitude-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#gratitude-list li {
+    margin-bottom: 10px;
+}
